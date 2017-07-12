@@ -4,6 +4,7 @@ applied MVC, fixed layout for both landscape and portrait.
 
 Portrait Mode
 ![alt text](https://giphy.com/gifs/pPRm1JiNe2fte)
+
 Landscape mode
 ![alt text](https://giphy.com/gifs/GEIEFgShe7jQk)
 
