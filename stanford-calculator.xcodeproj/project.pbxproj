@@ -12,6 +12,7 @@
 		6D54268A1F03B54600991740 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D5426881F03B54600991740 /* Main.storyboard */; };
 		6D54268C1F03B54600991740 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D54268B1F03B54600991740 /* Assets.xcassets */; };
 		6D54268F1F03B54600991740 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D54268D1F03B54600991740 /* LaunchScreen.storyboard */; };
+		6DFC477D1F0A5CEA003A7C28 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DFC477C1F0A5CEA003A7C28 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6D54268B1F03B54600991740 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D54268E1F03B54600991740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D5426901F03B54600991740 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6DFC477C1F0A5CEA003A7C28 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalculatorBrain.swift; path = "stanford-calculator/CalculatorBrain.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		6D5426781F03B54600991740 = {
 			isa = PBXGroup;
 			children = (
+				6DFC477C1F0A5CEA003A7C28 /* CalculatorBrain.swift */,
 				6D5426831F03B54600991740 /* stanford-calculator */,
 				6D5426821F03B54600991740 /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DFC477D1F0A5CEA003A7C28 /* CalculatorBrain.swift in Sources */,
 				6D5426871F03B54600991740 /* ViewController.swift in Sources */,
 				6D5426851F03B54600991740 /* AppDelegate.swift in Sources */,
 			);
@@ -304,6 +308,7 @@
 				6D5426951F03B54600991740 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
