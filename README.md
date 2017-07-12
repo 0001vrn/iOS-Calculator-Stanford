@@ -4,9 +4,9 @@ applied MVC, fixed layout for both landscape and portrait.
 
 Portrait Mode
 
-![alt text](http://gph.to/2uhaEKi)
+![alt text](https://media.giphy.com/media/pPRm1JiNe2fte/giphy.gif)
 
 Landscape mode
 
-![alt text](http://gph.to/2tdcCqk)
+![alt text](https://media.giphy.com/media/GEIEFgShe7jQk/giphy.gif)
 
